@@ -2,6 +2,6 @@ class Hello
 {
 	public static void main(String args[])
 	{
-		System.out.println("Hello all from child!");
+		System.out.println("Hello all! stash2");
 	}
 }
